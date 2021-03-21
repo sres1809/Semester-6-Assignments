@@ -1,0 +1,38 @@
+html,
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.sendbox {
+  margin-left: 600px;
+  position: absolute;
+  bottom: 30px;
+  padding-top: 10px;
+  padding-left: 40px;
+  width: 650px;
+  height: 80px;
+  border: 4px yellow;
+  background-color: rgb(151, 19, 19);
+}
+
+.sendbutton {
+  width: 60px;
+}
+
+.typemessage {
+  width: 400px;
+}
+
+.logo {
+  background-color: rgb(241, 16, 16);
+  color: rgb(245, 243, 243);
+  font-size: larger;
+  padding: 5px;
+  font-family: cursive;
+  width: fit-content;
+  border-radius: 10px;
+}
